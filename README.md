@@ -1,4 +1,4 @@
-## Overview
+# Overview
 This repository is dedicated to demonstrating the core principles of Object-Oriented Programming (OOP) using TypeScript: Abstraction, Encapsulation, Inheritance, and Polymorphism. Each TypeScript file in this repository provides a clear example of these concepts.
 
 ## Files and Descriptions
